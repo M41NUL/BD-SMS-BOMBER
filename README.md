@@ -42,6 +42,15 @@ $ cd BD-SMS-BOMBER
 $ python2 MAINUL_BOMB.py
 
 ```
+# Tool Username and Password. 
+
+```
+Username : MAINUL
+Password : BOMB
+
+```
+<img src="https://github.com/M41NUL/BD-SMS-BOMBER" width="300%">
+
 # My Facebook & Wp.🖤
 
 <p align="left">
