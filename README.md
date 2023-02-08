@@ -1,6 +1,8 @@
 #  W E L C O M E <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px">
            
-# Mainul_Bomber 🤤😎
+<p align="center"><img src="https://img.shields.io/badge/MAINUL 😎-BOMBER 🤤-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
+
 
 - A powerfull SMS Bomber for Bangladesh....😴💪
 - Sent Unlimited Bombing Sms....😘💜
