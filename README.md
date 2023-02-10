@@ -72,5 +72,5 @@ $ python2 MAINUL_BOMB.py
 		       <a href="https://facebook.com/ALVEE.MAINUL.ISLAM.59K"><img title="Facebook" src="https://img.shields.io/badge/Facebook I'd-white?style=for-the-badge&logo=Facebook"></a></p>
 		       <a href="https://facebook.com/Itsmainulislam4266"><img title="Facebook" src="https://img.shields.io/badge/Facebook Page-white?style=for-the-badge&logo=Facebook"></a></p>
 		       <a href="https://wa.me/+8801308850528?text"><img title="Whatsapp" src="https://img.shields.io/badge/Mainul Islam(wp)-white?style=for-the-badge&logo=Whatsapp"></a></p>
-	      COADER © <a href="https://github.com/M41NUL">Mainul Islam😎</a></p>
+	      CODER © <a href="https://github.com/M41NUL">Mainul Islam😎</a></p>
 
