@@ -1,4 +1,4 @@
-#  W E L C O M E ♦ I'M  M A I N U L <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><p align="center"> <img src="https://img.shields.io/badge/BANGLA-DESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
+#  W E L C O M E ♦ I'M, M A I N U L <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><p align="center"> <img src="https://img.shields.io/badge/BANGLA-DESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
            
 <p align="center"><img src="https://img.shields.io/badge/MAINUL 😎-BOMBER 🤤-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
